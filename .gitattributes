@@ -1,0 +1,9 @@
+# Default behavior
+*.ts linguist-detectable
+docs/* linguist-vendored
+
+src/**/*.tsx linguist-detectable 
+*.sh text eol=lf
+*.jpeg binary
+*.yaml linguist-detectable=false
+# eof 9fa87779
